@@ -3,9 +3,9 @@ const Web3 = require("web3");
 const { abi, evm } = require("./compile");
 
 const provider = new HDWalletProvider(
-  "cigar struggle shoulder voyage mule rebuild brisk churn bunker rough hammer accuse",
+  "YOUR SECERT PHRASE",
   // remember to change this to your own phrase!
-  "https://goerli.infura.io/v3/ad3a4a0aaa754d8e8b7d16d3d3318a7a"
+  "YOUR NODE LINK"
   // remember to change this to your own endpoint!
 );
 
