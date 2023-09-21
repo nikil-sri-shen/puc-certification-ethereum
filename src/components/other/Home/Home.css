@@ -1,0 +1,75 @@
+.head-title {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: #62cdff;
+  text-shadow: 0 0 10px #1c82ad;
+}
+
+.introduction {
+  margin-left: 200px;
+  margin-right: 100px;
+}
+
+.ethereum-image {
+  background-image: url("../../../assets/images/ethereum.jpg");
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50px;
+}
+
+.introduction-text {
+  font-weight: 500;
+  padding-left: 80px;
+  padding-right: 50px;
+  text-align: left;
+  color: #1c82ad;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.sections {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+
+.heading-section {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  color: #62cdff;
+  text-shadow: 0 0 10px #1c82ad;
+}
+
+.section-1 {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  color: #62cdff;
+  text-shadow: 0 0 10px #1c82ad;
+}
+
+.section-2 {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  color: #62cdff;
+  text-shadow: 0 0 10px #1c82ad;
+}
+
+.section-3 {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  color: #62cdff;
+  text-shadow: 0 0 10px #1c82ad;
+}
+

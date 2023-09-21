@@ -1,0 +1,14 @@
+.footer {
+  background-color: #e8e8e8;
+  color: #090979;
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: #090979;
+}
