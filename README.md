@@ -1,4 +1,4 @@
-# Polluction Under Control Certification System using Ethereum Blockchain
+# Pollution Under Control Certification System using Ethereum Blockchain
 
 The project proposes a decentralized Pollution Under Control (PUC) certificate system for motor vehicles in India. It leverages Internet of Things (IoT) sensors to collect real-time emission data from vehicles and stores it securely on the Ethereum blockchain. Smart contracts automate the issuance of PUC certificates based on predefined criteria, ensuring transparency and reducing human error. Users pay for services using Ether tokens. This innovative system aims to enhance transparency, security, and efficiency in controlling vehicle emissions, ultimately contributing to better pollution control efforts and data analytics.
 
