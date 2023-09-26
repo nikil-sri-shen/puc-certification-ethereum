@@ -6,7 +6,7 @@ The project proposes a decentralized Pollution Under Control (PUC) certificate s
 ### `Home Page`
 
 Runs the app in the development mode.\
-Open ![http://localhost:3000](http://bafybeidg7rk7maye4zrt2wcs7dbnqc4lqzuo6bgu3vzxygj3kwez24yedm.ipfs.localhost:8080/) to view it in the browser.
+Open [http://localhost:3000]() to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
