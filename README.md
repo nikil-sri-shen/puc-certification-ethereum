@@ -3,23 +3,20 @@
 The project proposes a decentralized Pollution Under Control (PUC) certificate system for motor vehicles in India. It leverages Internet of Things (IoT) sensors to collect real-time emission data from vehicles and stores it securely on the Ethereum blockchain. Smart contracts automate the issuance of PUC certificates based on predefined criteria, ensuring transparency and reducing human error. Users pay for services using Ether tokens. This innovative system aims to enhance transparency, security, and efficiency in controlling vehicle emissions, ultimately contributing to better pollution control efforts and data analytics.
 
 ## Screeshots
-
-
-
-### `npm start`
+### `Home Page`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://bafybeibmijc3ortxe74xyyqtxk3pggv2wm2apcybtwpcyxvrrem3psgdlm.ipfs.localhost:8080/) to view it in the browser.
+Open ![http://localhost:3000](http://bafybeidg7rk7maye4zrt2wcs7dbnqc4lqzuo6bgu3vzxygj3kwez24yedm.ipfs.localhost:8080/) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `Add certificate page`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `View Certififcate page`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +26,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `Transaction`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
