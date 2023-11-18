@@ -16,7 +16,7 @@ The project proposes a decentralized Pollution Under Control (PUC) certificate s
 
 Find my work at the below link 👇🏼:
 
-![PUC - Certificate](https://puc-certificate.netlify.app/) Project.
+[PUC - Certificate](https://puc-certificate.netlify.app/) Project.
 
 ##Connect with Me:
 
